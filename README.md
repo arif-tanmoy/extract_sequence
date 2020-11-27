@@ -1,9 +1,12 @@
-# extract_sequence
+## extract_sequence
 Extract sequences from FASTA file using ID query.
 
 ### Requirement
+*Written in python2.7*
+```
 biopython
 argparse
+```
 
 ### Use
 ```
